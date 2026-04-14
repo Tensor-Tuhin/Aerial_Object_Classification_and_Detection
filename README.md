@@ -13,12 +13,15 @@ Running the Application:
 
 1. Clone the repository to your local system.
 2. Install the required dependencies:
+
    pip install -r requirements.txt
 3. Make sure the model files are placed correctly:
    - Transfer Learning model: "models/tl_model_best.h5"
    - YOLO model: "models/weights/best.pt"
+   
    The application expects the "models" folder to be in the same directory as the main application file (app.py). This applies for the other files as well.
 4. Start the Streamlit app:
+   
    streamlit run app.py
 
 Notes:
