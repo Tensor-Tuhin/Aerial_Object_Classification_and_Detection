@@ -27,7 +27,7 @@ Running the Application:
 Notes:
 
 - The CNN model is not included due to file size limitations.
-- The dataset is also not included due to file size limitations and needs to be obtained separately.
+- The dataset is also not included due to file size limitations.
 - Only the transfer learning and yolo models have been provided for inference.
 
 Conclusion:
